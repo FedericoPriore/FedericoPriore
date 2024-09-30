@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Edgar Federico Priore Garcia
 
-<!--
-**FedericoPriore/FedericoPriore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador que se encuentra actualmente estudiando en Educacio It.
+Quiero trabajar como programador, soy responsable con buena capacidad de adaptacion.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías y Herramientas
+- **Lenguajes:** `Python`, `JavaScript`, `Html`, `Css`, `Scss`
+- **Frameworks:** `React`
+- **Bases de datos:** `MySQL`, `MongoDB`
+- **Herramientas:** `Git`, `Visual Studio Code`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=FedericoPriore&show_icons=true&theme=radical)
+
+## 🌍 Conéctate conmigo
+- [LinkedIn](https://linkedin.com/in/tu-perfil)
+- Tambien me podes contactar a travez de mi email: FedericoPriore96@gmail.com
