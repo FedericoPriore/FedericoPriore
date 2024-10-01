@@ -14,5 +14,5 @@ Quiero trabajar como programador, soy responsable con buena capacidad de adaptac
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=FedericoPriore&show_icons=true&theme=radical)
 
 ## 🌍 Conéctate conmigo
-- [LinkedIn](www.linkedin.com/in/edgar-federico-priore-garcia)
+- [LinkedIn](https://www.linkedin.com/in/edgar-federico-priore-garcia)
 - Tambien me podes contactar a travez de mi email: FedericoPriore96@gmail.com
